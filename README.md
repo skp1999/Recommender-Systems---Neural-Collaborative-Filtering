@@ -2,7 +2,7 @@
 
 The NCF paper can be found here - https://arxiv.org/abs/1708.05031
 
-##Kindly use Google Collaboratory or a notebook with GPU runtime
+Kindly use Google Collaboratory or a notebook with GPU runtime
 
 This Notebook presents Collaborative Filtering through Neural Networks. The key points are discusses below - 
 1. Download the MovieLens Dataset from https://www.kaggle.com/grouplens/movielens-20m-dataset - download only rating.csv.
